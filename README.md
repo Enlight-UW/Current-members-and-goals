@@ -21,3 +21,12 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Justin Schrimmer
 - Kyle Klassy
 - Bo Clow
+
+# Interview Questions and their Answers:
+## 04-10-2016: Come up with an algorithm that will return the 'n'th element in the fibonacci sequence.
+Example input:  0, 1, 2, 3, 4, 5...
+Example output: 1, 1, 2, 3, 5, 8...
+For a example solution, <a href="https://github.com/UW-Enlight/Current-members-and-goals/fib.py">Look here..</a> note this is not the only way to do this...
+Follow up questions: 
+- Can you do it a different way?
+- Is your way the most efficient?
