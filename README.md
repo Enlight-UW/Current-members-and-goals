@@ -20,3 +20,4 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Vinay Janardhanam
 - Justin Schrimmer
 - Kyle Klassy
+- Bo Clow
