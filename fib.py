@@ -11,8 +11,8 @@ def fibSeq(n):
 	return prev2
   
   
-  # A REcursive approach
-  def fib(n):
+# A Recursive approach
+def fib(n):
 	if (n < 2):
 		return 1
 	return fib(n - 1) + fib(n - 2)
