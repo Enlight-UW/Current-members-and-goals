@@ -31,7 +31,9 @@ Follow up questions:
 - Can you do it a different way?
 - Is your way the most efficient?
 
-## 11-10-2016: Come up with and algorithm to compress and input of characters.
+## 11-10-2016: Come up with and algorithm to compress an input of characters.
 <br>For example, if I give you aaaaaaaaabbbbbbaaaaaccccccccfffffhhhhhh
 <br> how would you compress that string?
+<br> Does your implementation have a worst case senario? How does it handle it?
+<br> What is the big O run time of your solution?
 <br>Example solution can be found <a href="https://github.com/UW-Enlight/Current-members-and-goals/blob/master/compression.java">Here</a>
