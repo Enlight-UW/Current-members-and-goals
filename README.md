@@ -34,5 +34,4 @@ Follow up questions:
 ## 11-10-2016: Come up with and algorithm to compress and input of characters.
 <br>For example, if I give you aaaaaaaaabbbbbbaaaaaccccccccfffffhhhhhh
 <br> how would you compress that string?
-<br>Example solution can be found <a href="https://github.com/UW-Enlight/Current-memb
-    ers-and-goals/blob/master/compression.java">Here</a>
+<br>Example solution can be found <a href="https://github.com/UW-Enlight/Current-members-and-goals/blob/master/compression.java">Here</a>
