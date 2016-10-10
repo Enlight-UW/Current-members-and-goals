@@ -4,12 +4,12 @@
 */
 static String compression (String in) {
   /* 
-  nIdea: given some string "aaaaaabbbbbbccccchhhhhaaaaa",
+  Idea: given some string "aaaaaabbbbbbccccchhhhhaaaaa",
   how can we compress it to a smaller string?
   Solution: Count the number of times a character is repeated.
   the above string then becomes "6a6b5c5h5a" which is shorter.
   Worst case of this algorithm?
-    Input of "abababababababababa" getrs doubled into
+    Input of "abababababababababa" gets doubled into
     "1a1b1a1b1a1b1a1b1a1b1a1b1a1b1a1b1a1b..."
   Potential solution?
     If only a sinlge char then dont prefix it with a number. Doing this
