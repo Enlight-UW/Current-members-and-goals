@@ -60,3 +60,9 @@ Follow up questions:
 - what actually happens with an import / #include / using statement?
 
 It will be left to the group / you to come up with or google the definitions.
+
+## 1-11-2016: How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.
+
+The answer that comes to mind first is likely having a minValue integer that stores the current minimun value in the stack but if the minimum value is popped off of the stack then you would have to search the stack again for the new minimum value.  The way to get around this is to store minimum values in a stack alongside your original stack. The way this works is: when you push to your stack check it against the minValue int. If it is less than or equal to the minValue then also push it to your minimum value stack. When you pop from the stack, check against minValue and if it is equal to the minvalue pop it off of the minimum value stack as well.
+
+I may add an implememtation to this later.
