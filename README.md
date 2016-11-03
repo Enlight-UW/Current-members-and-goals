@@ -66,3 +66,10 @@ It will be left to the group / you to come up with or google the definitions.
 The answer that comes to mind first is likely having a minValue integer that stores the current minimun value in the stack but if the minimum value is popped off of the stack then you would have to search the stack again for the new minimum value.  The way to get around this is to store minimum values in a stack alongside your original stack. The way this works is: when you push to your stack check it against the minValue int. If it is less than or equal to the minValue then also push it to your minimum value stack. When you pop from the stack, check against minValue and if it is equal to the minvalue pop it off of the minimum value stack as well.
 
 I may add an implememtation to this later.
+
+## 8-11-2016: Using a Stack data structure, create a Queue (FIFO). Then do the reverse, using a Queue (FIFO) creaet a Stack.
+- Follow up, how many data structures do you need for each?
+- What are the normal big O run times for the operations, and what are they in your implementation? Can yours be made better?
+- Are there any advantages or disadvantages to your way? Are there any advantages or disadvantages to implementing a data structure like this (using a different one)?
+- <a href="http://stackoverflow.com/questions/688276/implement-stack-using-two-queues">Queue using stacks here</a>
+- <a href="http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks">Stack using queues here</a>
