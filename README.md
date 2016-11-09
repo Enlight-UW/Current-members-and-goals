@@ -67,7 +67,7 @@ The answer that comes to mind first is likely having a minValue integer that sto
 
 I may add an implememtation to this later.
 
-## 8-11-2016: Using a Stack data structure, create a Queue (FIFO). Then do the reverse, using a Queue (FIFO) creaet a Stack.
+## 8-11-2016: Using a Stack data structure, create a Queue (FIFO). Then do the reverse, using a Queue (FIFO) creeeeeeaat a Stack.
 - Follow up, how many data structures do you need for each?
 - What are the normal big O run times for the operations, and what are they in your implementation? Can yours be made better?
 - Are there any advantages or disadvantages to your way? Are there any advantages or disadvantages to implementing a data structure like this (using a different one)?
