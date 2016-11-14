@@ -73,3 +73,9 @@ I may add an implememtation to this later.
 - Are there any advantages or disadvantages to your way? Are there any advantages or disadvantages to implementing a data structure like this (using a different one)?
 - <a href="http://stackoverflow.com/questions/688276/implement-stack-using-two-queues">Queue using stacks here</a>
 - <a href="http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks">Stack using queues here</a>
+
+## 15-11-2016: A non-technical question often asked in interviews, "How do you stay on top of or learn new technologies in our industry?" This is a tough question becuase they want you to give some variety of things that you are learning. Languages, Tools, Frameworks, etc... So lets build a list below of places that you can go to, to learn new things in computer science. (I'm going to post the obvious ones so that you guys have to do some digging)
+- Reddit (note: in an interview it is OK to say you learn stuff on reddit, and I hope you do!)
+- github.com/trending (a neat place to see what people are working on)
+- class (note: this is not really a good answer.... in class you usually learn old information that is the foundation for newer stuff.
+- lynda.com (note: UW gives us all a free account! go use it!)
