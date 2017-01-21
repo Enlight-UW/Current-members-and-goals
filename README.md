@@ -1,7 +1,11 @@
 # Current-members-and-goals
 Repo to use to display the orgs current projects, and goals for those projects. As well as a repo for new members to practice git by adding their name to the member list.
 
-# Drone project:
+# (Spring 2017) Project 1:
+
+# (Spring 2017) Project 2:
+
+# (Fall 2016) Drone project:
 (Add your name to this list if you are going to be part of the drone project!)
 - Cameron Hall
 - Tom Schutte
@@ -10,7 +14,7 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Mackenzie Kilness
 - Brian Newberry
 
-# Magic Mirror project:
+# (Fall 2016) Magic Mirror project:
 (Add your name to this list if you are going to be part of the magic mirror project!)
 - Arel Otles
 - Tom Schutte
@@ -67,7 +71,7 @@ The answer that comes to mind first is likely having a minValue integer that sto
 
 I may add an implememtation to this later.
 
-## 8-11-2016: Using a Stack data structure, create a Queue (FIFO). Then do the reverse, using a Queue (FIFO) creeeeeeaat a Stack.
+## 8-11-2016: Using a Stack data structure, create a Queue (FIFO). Then do the reverse, using a Queue (FIFO) create a Stack.
 - Follow up, how many data structures do you need for each?
 - What are the normal big O run times for the operations, and what are they in your implementation? Can yours be made better?
 - Are there any advantages or disadvantages to your way? Are there any advantages or disadvantages to implementing a data structure like this (using a different one)?
@@ -79,3 +83,5 @@ I may add an implememtation to this later.
 - github.com/trending (a neat place to see what people are working on)
 - class (note: this is not really a good answer.... in class you usually learn old information that is the foundation for newer stuff.
 - lynda.com (note: UW gives us all a free account! go use it!)
+
+## 24-1-2017: Coming soon
