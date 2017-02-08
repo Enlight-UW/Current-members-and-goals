@@ -1,9 +1,17 @@
 # Current-members-and-goals
 Repo to use to display the orgs current projects, and goals for those projects. As well as a repo for new members to practice git by adding their name to the member list.
 
-# (Spring 2017) Project 1:
+# (Spring 2017) Project 1: Robot GUI Interface
+- Michael Ciancimino (Group Leader)
+- Tom Schutte
+- Riley Morrison
 
-# (Spring 2017) Project 2:
+# (Spring 2017) Project 2: Arduino Robot
+- Arel Otles (Group Leader)
+- Cameron Hall
+- Jimmy Dallman
+- Vinay Janardhanam
+- James Mai
 
 # (Fall 2016) Drone project:
 (Add your name to this list if you are going to be part of the drone project!)
