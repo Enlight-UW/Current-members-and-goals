@@ -40,6 +40,13 @@ First some general resources...<br>
 <a href="http://rosettacode.org/wiki/Rosetta_Code">The wikipedia of coding algorithms. A great way to practice your algo programming</a><br>
 <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Web development specific questions</a>
 
+# Places to go practice:
+<a href="https://leetcode.com/">https://leetcode.com/</a><br>
+<a href="https://www.hackerrank.com/">https://www.hackerrank.com/</a><br>
+<a href="https://www.codecademy.com/">https://www.codecademy.com/</a><br>
+<a href="https://www.codechef.com/">https://www.codechef.com/</a><br>
+<a href="https://code.google.com/codejam/">https://code.google.com/codejam/</a><br>
+
 ## 04-10-2016: Come up with an algorithm that will return the 'n'th element in the fibonacci sequence.
 <br>Example input:  0, 1, 2, 3, 4, 5...
 <br>Example output: 1, 1, 2, 3, 5, 8...
@@ -92,4 +99,4 @@ I may add an implememtation to this later.
 - class (note: this is not really a good answer.... in class you usually learn old information that is the foundation for newer stuff.
 - lynda.com (note: UW gives us all a free account! go use it!)
 
-## 24-1-2017: Coming soon
+## 7-2-2017: Given an unordered array of integers, find the mode element (if there are mutiple, choose how to handle it) and return it. Your solution should be very memory efficient, and have reasonable running time.
