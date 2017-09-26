@@ -1,38 +1,9 @@
 # Current-members-and-goals
 Repo to use to display the orgs current projects, and goals for those projects. As well as a repo for new members to practice git by adding their name to the member list.
 
-# (Spring 2017) Project 1: Robot GUI Interface
-- Michael Ciancimino (Group Leader)
-- Tom Schutte
-- Riley Morrison
+# (Fall 2017) Project 1:
 
-# (Spring 2017) Project 2: Arduino Robot
-- Arel Otles (Group Leader)
-- Cameron Hall
-- Jimmy Dallman
-- Vinay Janardhanam
-- James Mai
-
-# (Fall 2016) Drone project:
-(Add your name to this list if you are going to be part of the drone project!)
-- Cameron Hall
-- Tom Schutte
-- Sam Schwebach (on both temporarily)
-- Michael Ciancimino
-- Mackenzie Kilness
-- Brian Newberry
-
-# (Fall 2016) Magic Mirror project:
-(Add your name to this list if you are going to be part of the magic mirror project!)
-- Arel Otles
-- Tom Schutte
-- Sam Schwebach (on both temporarily)
-- James Mai
-- Riley Morrison
-- Vinay Janardhanam
-- Justin Schrimmer
-- Kyle Klassy
-- Bo Clow
+# (Fall 2017) Project 2:
 
 # Interview Questions and their Answers:
 First some general resources...<br>
